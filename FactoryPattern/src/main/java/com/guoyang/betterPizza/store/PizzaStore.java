@@ -1,0 +1,19 @@
+package com.guoyang.betterPizza.store;
+
+
+import com.guoyang.betterPizza.pizza.Pizza;
+
+public abstract class PizzaStore {
+	public Pizza orderPizza(String type) {
+		Pizza pizza = createPizza(type);
+
+		pizza.prepare();
+		pizza.bake();
+		pizza.cut();
+		pizza.box();
+
+		return pizza;
+	}
+
+	protected abstract Pizza createPizza(String type);
+}
