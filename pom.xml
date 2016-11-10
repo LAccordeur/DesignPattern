@@ -12,6 +12,7 @@
         <module>StrategyPattern</module>
         <module>ObserverPattern</module>
         <module>FactoryPattern</module>
+        <module>DecoratorPattern</module>
     </modules>
 
 
