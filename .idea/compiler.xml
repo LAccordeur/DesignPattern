@@ -25,6 +25,7 @@
         <module name="DecoratorPattern" />
         <module name="FactoryPattern" />
         <module name="ObserverPattern" />
+        <module name="SingletonPattern" />
         <module name="StrategyPattern" />
       </profile>
     </annotationProcessing>
@@ -33,6 +34,7 @@
       <module name="DesignPattern" target="1.5" />
       <module name="FactoryPattern" target="1.5" />
       <module name="ObserverPattern" target="1.5" />
+      <module name="SingletonPattern" target="1.5" />
       <module name="StrategyPattern" target="1.5" />
     </bytecodeTargetLevel>
   </component>

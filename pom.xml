@@ -13,6 +13,7 @@
         <module>ObserverPattern</module>
         <module>FactoryPattern</module>
         <module>DecoratorPattern</module>
+        <module>SingletonPattern</module>
     </modules>
 
 
