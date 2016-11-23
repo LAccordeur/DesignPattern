@@ -14,6 +14,7 @@
         <module>FactoryPattern</module>
         <module>DecoratorPattern</module>
         <module>SingletonPattern</module>
+        <module>CommandPattern</module>
     </modules>
 
 
