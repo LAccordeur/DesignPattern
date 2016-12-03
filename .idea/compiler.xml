@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="AdapterPattern" />
         <module name="CommandPattern" />
         <module name="DecoratorPattern" />
         <module name="FactoryPattern" />
@@ -31,6 +32,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AdapterPattern" target="1.5" />
       <module name="CommandPattern" target="1.5" />
       <module name="DecoratorPattern" target="1.5" />
       <module name="DesignPattern" target="1.5" />

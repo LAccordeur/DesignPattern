@@ -15,6 +15,7 @@
         <module>DecoratorPattern</module>
         <module>SingletonPattern</module>
         <module>CommandPattern</module>
+        <module>AdapterPattern</module>
     </modules>
 
 
