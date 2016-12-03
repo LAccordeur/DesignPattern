@@ -16,6 +16,7 @@
         <module>SingletonPattern</module>
         <module>CommandPattern</module>
         <module>AdapterPattern</module>
+        <module>TemplatePattern</module>
     </modules>
 
 

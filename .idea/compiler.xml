@@ -29,6 +29,7 @@
         <module name="ObserverPattern" />
         <module name="SingletonPattern" />
         <module name="StrategyPattern" />
+        <module name="TemplatePattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -40,6 +41,7 @@
       <module name="ObserverPattern" target="1.5" />
       <module name="SingletonPattern" target="1.5" />
       <module name="StrategyPattern" target="1.5" />
+      <module name="TemplatePattern" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
