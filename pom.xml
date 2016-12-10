@@ -17,6 +17,7 @@
         <module>CommandPattern</module>
         <module>AdapterPattern</module>
         <module>TemplatePattern</module>
+        <module>IteratorPattern</module>
     </modules>
 
 

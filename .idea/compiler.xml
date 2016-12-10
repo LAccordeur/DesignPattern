@@ -26,6 +26,7 @@
         <module name="CommandPattern" />
         <module name="DecoratorPattern" />
         <module name="FactoryPattern" />
+        <module name="IteratorPattern" />
         <module name="ObserverPattern" />
         <module name="SingletonPattern" />
         <module name="StrategyPattern" />
@@ -38,6 +39,7 @@
       <module name="DecoratorPattern" target="1.5" />
       <module name="DesignPattern" target="1.5" />
       <module name="FactoryPattern" target="1.5" />
+      <module name="IteratorPattern" target="1.5" />
       <module name="ObserverPattern" target="1.5" />
       <module name="SingletonPattern" target="1.5" />
       <module name="StrategyPattern" target="1.5" />
