@@ -18,6 +18,8 @@
         <module>AdapterPattern</module>
         <module>TemplatePattern</module>
         <module>IteratorPattern</module>
+        <module>StatePattern</module>
+        <module>ProxyPattern</module>
     </modules>
 
 

@@ -1,5 +1,6 @@
 package com.guoyang.weatherObservable;
 
+import java.util.EventObject;
 import java.util.Observable;
 import java.util.Observer;
 
